@@ -9,3 +9,5 @@ Freecourses is a platform which offers a collection of free course links for var
 ## Contribute
 
 You can also contribute to the project. Check below different ways for contributions please check in [CONTRIBUTING.md](https://github.com/Leocardoso94/Free-Courses/blob/master/CONTRIBUTING.md)
+
+new line
